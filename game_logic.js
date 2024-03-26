@@ -64,7 +64,7 @@ function restart() {
         box.style.backgroundColor=''
     })
 
-    // playerText.innerHTML = 'First click get symbol X'
+    playerText.innerHTML = 'Chaki suna'
 
     currentPlayer = X_TEXT
 }
