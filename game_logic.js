@@ -64,7 +64,7 @@ function restart() {
         box.style.backgroundColor=''
     })
 
-    playerText.innerHTML = 'First click get symbol X'
+    // playerText.innerHTML = 'First click get symbol X'
 
     currentPlayer = X_TEXT
 }
