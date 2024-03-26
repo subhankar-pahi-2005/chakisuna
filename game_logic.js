@@ -64,7 +64,7 @@ function restart() {
         box.style.backgroundColor=''
     })
 
-    playerText.innerHTML = 'Chaki suna'
+    playerText.innerHTML = ''
 
     currentPlayer = X_TEXT
 }
